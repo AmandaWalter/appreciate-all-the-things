@@ -1,0 +1,24 @@
+{
+  "name": "appreciate-all-the-things",
+  "version": "1.0.0",
+  "description": "A blog to document my apprenticeship at OC Tanner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "appreciate-all-the-things"
+  },
+  "keywords": [
+    "developer",
+    "apprentice",
+    "metalsmith",
+    "learning"
+  ],
+  "author": "Amanda Walter",
+  "license": "CC-SA",
+  "dependencies": {
+    "metalsmith": "^1.7.0"
+  }
+}
